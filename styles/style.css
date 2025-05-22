@@ -96,7 +96,7 @@ html {
 .search-form__label {
   display: flex;
   width: fit-content;
-  align-items: end;
+  align-items: center;
 }
 
 .search-form__label-underline:hover {
@@ -230,8 +230,6 @@ ol {
   /* уточнить кол-во строк по макету */
   line-clamp: 4;
 }
-
-
 
 .content__card-link:hover {
   text-decoration: underline;
